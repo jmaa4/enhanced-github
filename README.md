@@ -182,3 +182,4 @@ Refer [Privacy Policy](https://varunmalhotra.xyz/enhanced-github/#privacy-policy
 [chrome]: https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd
 [firefox]: https://addons.mozilla.org/en-US/firefox/addon/enhanced-github/
 [edge]: https://microsoftedge.microsoft.com/addons/detail/enhanced-github/eibibhailjcnbpjmemmcaakcookdleon
+https://gitlab.com/gitlab-org/gitlab/-/tree/958c1f2903fb780356e330d1200cdb8b187e669d/
